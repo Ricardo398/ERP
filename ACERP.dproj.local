@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/16 21:49:47.000.296,=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 21:53:50.000.157,C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\ACERP.dproj=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/16 21:54:31.000.300,C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.pas=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 21:54:31.000.300,C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.fmx=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/10/16 21:54:47.000.361,C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.index.index=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.index</Transaction>
+    <Transaction>2024/10/16 21:54:47.000.361,C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.index.fmx=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.fmx</Transaction>
+    <Transaction>2024/10/16 21:56:25.000.475,C:\Users\Ricardo\Documents\MyRepository\ac-erp\view\acerp.view.index.pas=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.index.pas</Transaction>
+    <Transaction>2024/10/16 21:56:25.000.475,C:\Users\Ricardo\Documents\MyRepository\ac-erp\view\acerp.view.index.fmx=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\acerp.view.index.fmx</Transaction>
+    <Transaction>2024/10/16 21:56:43.000.665,C:\Users\Ricardo\Documents\MyRepository\ac-erp\ACERP.dproj=C:\Users\Ricardo\Documents\Embarcadero\Studio\Projects\ACERP.dproj</Transaction>
+    <Transaction>2024/10/16 22:02:07.000.920,=C:\Users\Ricardo\Documents\MyRepository\ac-erp\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 22:03:08.000.007,C:\Users\Ricardo\Documents\MyRepository\ac-erp\acerp.view.index.fmx=C:\Users\Ricardo\Documents\MyRepository\ac-erp\Unit1.fmx</Transaction>
+    <Transaction>2024/10/16 22:03:08.000.007,C:\Users\Ricardo\Documents\MyRepository\ac-erp\acerp.view.index.pas=C:\Users\Ricardo\Documents\MyRepository\ac-erp\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 22:05:00.000.405,C:\Users\Ricardo\Documents\MyRepository\ac-erp\src\view\acerp.view.index.fmx=C:\Users\Ricardo\Documents\MyRepository\ac-erp\acerp.view.index.fmx</Transaction>
+    <Transaction>2024/10/16 22:05:00.000.405,C:\Users\Ricardo\Documents\MyRepository\ac-erp\src\view\acerp.view.index.pas=C:\Users\Ricardo\Documents\MyRepository\ac-erp\acerp.view.index.pas</Transaction>
+    <Transaction>2024/10/16 22:20:48.000.541,=C:\Users\Ricardo\Documents\MyRepository\ac-erp\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 22:39:40.000.949,C:\Users\Ricardo\Documents\MyRepository\ac-erp\Unit1.pas=C:\Users\Ricardo\Documents\MyRepository\ac-erp\src\view\router\Unit1.pas</Transaction>
+    <Transaction>2024/10/16 22:42:33.250,C:\Users\Ricardo\Documents\MyRepository\ac-erp\src\view\router\acerp.view.router.pas=C:\Users\Ricardo\Documents\MyRepository\ac-erp\src\view\router\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
